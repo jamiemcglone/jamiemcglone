@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jamiemcglone
 - 👀 I’m interested in music
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on beginner projects
+- 🌱 I’m currently studying at CodeClan
 - 📫 How to reach me: jamie.mcglone21@btinternet.com
 
 <!---
