@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamiemcglone
 - 👀 I’m interested in music
-- 🌱 I’m currently studying at CodeClan
+- 🌱 I’m currently working at FreeAgent
 - 📫 How to reach me: jamie.mcglone@outlook.com
 
 <!---
